@@ -1,7 +1,7 @@
 # Angular Project - FinApp
 
 **Descrição:**  
-Este é um projeto desenvolvido em Angular que [insira aqui a descrição do objetivo do projeto, como funcionalidades ou propósito].  
+Este é um projeto desenvolvido em Angular que gerencia as finanças do dia a dia (projeto de estudos angular).  
 
 ---
 
