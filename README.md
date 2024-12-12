@@ -1,4 +1,4 @@
-# Angular Project - Nome do Projeto
+# Angular Project - FinApp
 
 **Descrição:**  
 Este é um projeto desenvolvido em Angular que [insira aqui a descrição do objetivo do projeto, como funcionalidades ou propósito].  
